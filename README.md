@@ -1,6 +1,6 @@
 # nuxt-vuex
 
-> My tremendous Nuxt.js project
+nuxtでvuexを扱う練習
 
 ## Build Setup
 
